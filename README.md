@@ -146,6 +146,9 @@ RegisterNumber:
 ### D FLIPFLOP
 ![D TIME](https://github.com/AnbuSelvanS7/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151528411/c755ad2b-3146-43da-bdd5-db37bde79a33)
 
+### JK FLIPFLOP
+![JK TIME](https://github.com/AnbuSelvanS7/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151528411/09f248c0-d0f3-4217-9971-d00405b10bb8)
+
 ### T FLIPFLOP
 ![t time](https://github.com/AnbuSelvanS7/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151528411/106e8dff-39be-4bce-acdb-b97dba9294b9)
 
